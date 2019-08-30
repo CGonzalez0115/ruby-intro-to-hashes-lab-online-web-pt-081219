@@ -8,7 +8,7 @@ end
 
 def monopoly
 	monopoly = Hash.new
-  monopoly[:railroads => "Broadway", :railroads => "Atlantic"]
+  monopoly[:railroads => "Atlantic"]
 
 end
 
