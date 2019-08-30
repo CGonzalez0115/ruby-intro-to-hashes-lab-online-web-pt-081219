@@ -1,4 +1,4 @@
-def new_hash(monopoly)
+def new_hash
   monopoly = Hash.new
 end
 
