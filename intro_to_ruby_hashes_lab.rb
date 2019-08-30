@@ -7,7 +7,7 @@ def actor
 end
 
 def monopoly
-	monopoly = {:railroads => "Broadway"}
+	monopoly = Hash.new
   monopoly[:railroads => "Broadway", :railroads => "Atlantic"]
 
 end
