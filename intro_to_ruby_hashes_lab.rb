@@ -1,5 +1,5 @@
 def new_hash(monopoly)
-  monopoly = Hash.new_hash
+  monopoly = Hash.new
   monopoly[""]
 end
 
